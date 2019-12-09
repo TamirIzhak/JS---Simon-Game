@@ -1,2 +1,2 @@
-# JS---Simon-Game
+# JS-Simon-Game
 Simon webapp game
